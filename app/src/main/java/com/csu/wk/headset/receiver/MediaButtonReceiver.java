@@ -64,7 +64,6 @@ public class MediaButtonReceiver extends BroadcastReceiver {
                 }
             }
         }
-        abortBroadcast();
 
     }
 
